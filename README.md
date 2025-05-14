@@ -43,14 +43,4 @@ Follow these steps to install and run the app locally:
 - Uploaded images are stored in a specific folder within the project (e.g., `/uploads` or `/assets/images`, depending on your setup).
 - This app can be extended into a full academic information system in the future.
 
----
-
-## 👨‍💻 Developer
-
-**Anugerah Bakti Prasisto**  
-📌 Informatics Student  
-🌐 [LinkedIn](https://www.linkedin.com/in/anugerah-bakti-04422122b/) | [Instagram](https://www.instagram.com/bakti_011/) | [YouTube](https://www.youtube.com/@08.anugerahbaktiprasisto49)
-
----
-
 > Built for learning purposes and personal development. Feel free to fork, star, or contribute! 🌟
